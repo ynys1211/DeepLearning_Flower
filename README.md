@@ -1,1 +1,2 @@
-# DeepLearning_Flower
+## ✿ Flower image multi-class classification ✿
+***
